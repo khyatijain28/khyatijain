@@ -1,3 +1,7 @@
+![SQL Server](https://img.shields.io/badge/SQL_Server-Expert-red)
+![C#](https://img.shields.io/badge/C%23-Backend-blue)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC-purple)
+![GitHub](https://img.shields.io/badge/Open_to-Remote_Work-success)
 # Hi, I'm Khyati Jain 👋
 
 SQL Developer & Backend Engineer with 3+ years of experience building scalable enterprise applications using SQL Server, C#, and .NET.
