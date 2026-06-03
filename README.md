@@ -35,5 +35,5 @@ Currently working as a Software Engineer at Akums Drugs & Pharmaceuticals, build
 SQL Server • C# • ASP.NET MVC • .NET Framework • JavaScript • HTML • CSS • Git
 
 ## 📫 Connect With Me
-- LinkedIn: YOUR_LINKEDIN
+- LinkedIn: [https://www.linkedin.com/in/khyati~jain/](https://www.linkedin.com/in/khyati~jain/)
 - Email: khyatijain2802@gmail.com
