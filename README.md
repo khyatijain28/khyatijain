@@ -38,6 +38,14 @@ Currently working as a Software Engineer at Akums Drugs & Pharmaceuticals, build
 ## 🛠 Tech Stack
 SQL Server • C# • ASP.NET MVC • .NET Framework • JavaScript • HTML • CSS • Git
 
+## 🌱 Currently Learning
+
+- Advanced SQL Query Tuning
+- Database Performance Optimization
+- System Design Fundamentals
+- Backend Architecture Patterns
+- PostgreSQL Optimization
+
 ## 📫 Connect With Me
 - LinkedIn: [https://www.linkedin.com/in/khyati~jain/](https://www.linkedin.com/in/khyati~jain/)
 - Email: khyatijain2802@gmail.com
